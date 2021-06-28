@@ -1,0 +1,23 @@
+div {
+    color: blueviolet;
+    border: 2px solid powderblue;
+    padding: 20px;
+    background-color: tan;
+    text-align: center;
+    }
+
+body {
+    background-color: lightblue;
+}
+
+div2 {
+    display: inline-block;
+    width: 200px;
+    
+}
+
+.list {
+    
+    color: red;
+}
+
